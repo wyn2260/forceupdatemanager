@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">foreupdatemanager</string>
+    <string name="app_name">ForceUpdateManager</string>
+    <string name="close">Close</string>
+    <string name="newVersion">New Version Available</string>
+    <string name="upgradeNow">Update Now</string>
+    <string name="remindMeLater">Remind Later</string>
 </resources>
