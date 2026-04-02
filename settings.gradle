@@ -11,9 +11,10 @@ dependencyResolutionManagement {
         google()
         mavenCentral()
         maven { url 'https://jitpack.io' }
+
     }
 }
 
 rootProject.name = "Forceupdatemanager"
 include ':app'
-include ':foreupdatemanager'
+include ':forceupdatemanager'
